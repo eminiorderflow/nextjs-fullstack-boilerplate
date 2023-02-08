@@ -1,5 +1,5 @@
-import Image from 'next/image';
 import { Inter } from '@next/font/google';
+import Image from 'next/image';
 import styles from './page.module.css';
 
 const inter = Inter({ subsets: ['latin'] });
@@ -30,7 +30,7 @@ export default function Home() {
           </a>
         </div>
       </div>
-
+      <h1 className="underline font-bold">New Logo</h1>
       <div className={styles.center}>
         <Image
           className={styles.logo}
