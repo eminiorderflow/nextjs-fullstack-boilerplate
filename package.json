@@ -16,8 +16,8 @@
     "url": "https://github.com/eminiorderflow/nextjs-fullstack-boilerplate/issues"
   },
   "engines": {
-    "node": ">= 18.12.0",
-    "yarn": ">=1.22.17",
+    "node": ">=16.19.0",
+    "yarn": ">=1.22.0",
     "npm": "please-use-yarn"
   },
   "scripts": {
