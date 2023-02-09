@@ -41,7 +41,7 @@ yarn run start
 
 👤 **eminiorderflow**
 
-* Github: [@eminiorderflow](https://github.com/eminiorderflow)
+- Github: [@eminiorderflow](https://github.com/eminiorderflow)
 
 ## 🤝 Contributing
 
@@ -56,5 +56,4 @@ Give a ⭐️ if this project helped you!
 Copyright © 2023 [eminiorderflow](https://github.com/eminiorderflow).<br />
 This project is [MIT](https://github.com/eminiorderflow/nextjs-fullstack-boilerplate/blob/master/LICENSE) licensed.
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+---
