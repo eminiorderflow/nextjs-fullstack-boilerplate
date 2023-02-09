@@ -2,6 +2,19 @@
   "name": "nextjs-fullstack-boilerplate",
   "version": "0.1.0",
   "private": true,
+  "description": "Boilerplate for Nextjs 13 fullstack project",
+  "author": {
+    "name": "eminiorderflow"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/eminiorderflow/nextjs-fullstack-boilerplate#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eminiorderflow/nextjs-fullstack-boilerplate"
+  },
+  "bugs": {
+    "url": "https://github.com/eminiorderflow/nextjs-fullstack-boilerplate/issues"
+  },
   "engines": {
     "node": ">= 18.12.0",
     "yarn": ">=1.22.17",
